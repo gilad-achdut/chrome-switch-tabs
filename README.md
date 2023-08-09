@@ -1,7 +1,5 @@
 # Tab Switcher Chrome Extension
 
-![Tab Switcher Logo](icon.png)
-
 Tab Switcher is a simple Chrome extension that allows you to easily switch between the last two active tabs using a customizable keyboard shortcut.
 
 ## Features
